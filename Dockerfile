@@ -1,4 +1,4 @@
-FROM node:12.16-alpine
+FROM node:erbium-alpine3.11
 
 COPY . /app
 
